@@ -11,10 +11,6 @@
 
 Notebook de Google Colab que predice si un paciente tiene diabetes (clasificación binaria) usando Python, visualización de datos y redes neuronales. El trabajo sigue los seis bloques del enunciado del parcial.
 
-## Video de sustentación
-
-[PEGAR AQUÍ EL ENLACE DEL VIDEO]
-
 ## Dataset
 
 - Fuente: [Diabetes – Kaggle (datascikhan)](https://www.kaggle.com/datasets/datascikhan/diabetes)
